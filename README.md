@@ -9,3 +9,4 @@ help you to improve your logic, and if you want to improve my content
 
  ## List of Exercises
  - Exercise 1: Roman to Integer
+ - Exercise 2: Pentagonal Number
