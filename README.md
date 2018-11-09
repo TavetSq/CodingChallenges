@@ -1,7 +1,7 @@
 # Solved Programming Challenges
 
 ## What it's?
-It's a repository where I store solutions for Programming Exercises.
+It's a repository where I store solutions for Programming Exercises (Python / Java)
 
 ## List of Exercises
 ### Ordered by Exercise ID
